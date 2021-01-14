@@ -7,6 +7,6 @@ This structured notebook will take you in a simple way along a path that has man
 
 In order to do this Kaggle provide 3 files:
 
-- data_description.txt in which we can find detailed info about the variables.
-- train.csv containing the data to train the ML model.
-- test.csv containing the data  to test de ML model.
+- *data_description.txt* in which we can find detailed info about the variables.
+- *train.csv* containing the data to train the ML model.
+- *test.csv* containing the data  to test de ML model.
