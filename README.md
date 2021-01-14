@@ -3,7 +3,7 @@
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, the goal of this Kaggle competition challenges you to predict the final price of each home.
 
-This structured notebook will take you in a simple way along a path that has many bifurcations, since data analysis is a subject that has much to explore. Here you will find a simple way to apply a Machine Learning model to predict the sale price.
+This structured Python notebook will take you in a simple way along a path that has many bifurcations, since data analysis is a subject that has much to explore. Here you will find a simple way to apply a Machine Learning model to predict the sale price.
 
 In order to do this Kaggle provide 3 files:
 
