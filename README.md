@@ -1,6 +1,6 @@
 # house-prices
 
-(/Users/Paulino/Documents/Repositories/house-prices/housesbanner.png)
+(housesbanner.png)
 ## House Prices: How to teach and interest a beginner
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, the goal of this Kaggle competition challenges you to predict the final price of each home.
