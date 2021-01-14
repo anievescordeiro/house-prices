@@ -14,5 +14,5 @@ In order to do this Kaggle provide 3 files:
 - *test.csv* containing the data  to test de ML model.
 
  You can try this project interactively at the following Binder logo-link
- 
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/house-prices/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fanievescordeiro%2Fhouse-prices%2Fblob%2Fmain%2FHouse_Prices_V2.ipynb)
+
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/house-prices/main?filepath=House_Prices_V2.ipynb)
