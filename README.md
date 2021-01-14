@@ -13,6 +13,4 @@ In order to do this Kaggle provide 3 files:
 - *train.csv* containing the data to train the ML model.
 - *test.csv* containing the data  to test de ML model.
 
- You can try this project interactively at the following Binder logo-link
-
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/house-prices/main?filepath=House_Prices_V2.ipynb)
+ You can try this project interactively at the following Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/house-prices/main?filepath=House_Prices_V2.ipynb)
